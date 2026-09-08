@@ -1,0 +1,6 @@
+{
+  "name": "HelpSetu",
+  "description": "Find trusted local help instantly - connecting customers with local electricians, plumbers, labourers, and carpenters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
